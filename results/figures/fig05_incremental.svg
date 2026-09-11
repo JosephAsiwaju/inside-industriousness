@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+<rect width="900" height="320" fill="#FAFAF7"/>
+<text x="40" y="36" font-family="Georgia,serif" font-size="20" fill="#1B2A4A">Nested in-sample R², same N = 69,673</text>
+<rect x="200" y="70" width="580" height="28" fill="#E8E4DD"/><rect x="200" y="70" width="211" height="28" fill="#1B2A4A"/>
+<text x="40" y="90" font-family="Calibri,Arial,sans-serif" font-size="14">M1 industriousness</text>
+<text x="800" y="90" font-family="Calibri,Arial,sans-serif" font-size="14">.364</text>
+<rect x="200" y="115" width="580" height="28" fill="#E8E4DD"/><rect x="200" y="115" width="218" height="28" fill="#0E7C86"/>
+<text x="40" y="135" font-family="Calibri,Arial,sans-serif" font-size="14">M4 full facets</text>
+<text x="800" y="135" font-family="Calibri,Arial,sans-serif" font-size="14">.377</text>
+<rect x="200" y="160" width="580" height="28" fill="#E8E4DD"/><rect x="200" y="160" width="64" height="28" fill="#6B7280"/>
+<text x="40" y="180" font-family="Calibri,Arial,sans-serif" font-size="14">No industriousness</text>
+<text x="800" y="180" font-family="Calibri,Arial,sans-serif" font-size="14">.110</text>
+<text x="40" y="230" font-family="Calibri,Arial,sans-serif" font-size="15" fill="#1B2A4A">ΔR² after industriousness = .013</text>
+<text x="40" y="300" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#6B7280">Same rows in every model. The old .049 mixed sample size with predictors.</text>
+</svg>

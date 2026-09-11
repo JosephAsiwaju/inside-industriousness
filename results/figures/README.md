@@ -1,10 +1,13 @@
 # Figures
 
-On the repo now:
+All of these are on the repo:
 
 - fig_headline.svg — HTMT .92 and OOS 36% / 12%
-- fig_htmt.svg — the four valid HTMT pairs
+- fig_htmt.svg — HTMT pairs
+- fig02_loadings.svg — varimax |F1|
+- fig03_age_forest.svg — age-band correlations
+- fig04_contrast.svg — .42 vs .57
+- fig05_incremental.svg — nested R²
+- fig06_prediction.svg — out-of-sample R²
 
-PNG originals (heatmap, loadings, age forest, model plots) are in the local project folder. GitHub's file API here does not take binary PNGs. Upload them from your laptop:
-
-Repo → Add file → Upload files → drop `results/figures/fig01_*.png` through `fig06_*.png`.
+PNG exports of the same plots exist locally. They are not required to read the study.

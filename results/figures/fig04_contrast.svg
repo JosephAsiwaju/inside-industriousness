@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+<rect width="900" height="380" fill="#FAFAF7"/>
+<text x="40" y="36" font-family="Georgia,serif" font-size="20" fill="#1B2A4A">Delay tracks industriousness, not C in general</text>
+<rect x="120" y="80" width="280" height="220" rx="8" fill="#1B2A4A"/>
+<text x="260" y="190" text-anchor="middle" font-family="Georgia,serif" font-size="72" fill="#fff">.42</text>
+<text x="260" y="230" text-anchor="middle" font-family="Calibri,Arial,sans-serif" font-size="16" fill="#E8E4DD">vs remaining C</text>
+<text x="260" y="255" text-anchor="middle" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#E8E4DD">N = 109,423</text>
+<rect x="500" y="80" width="280" height="220" rx="8" fill="#0E7C86"/>
+<text x="640" y="190" text-anchor="middle" font-family="Georgia,serif" font-size="72" fill="#fff">.57</text>
+<text x="640" y="230" text-anchor="middle" font-family="Calibri,Arial,sans-serif" font-size="16" fill="#fff">vs industriousness</text>
+<text x="640" y="255" text-anchor="middle" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#E8E4DD">N = 96,175</text>
+<text x="40" y="360" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#6B7280">Supporting contrast. Headline numbers are HTMT .92 and OOS 36% / 12%.</text>
+</svg>
