@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Where do the delay items in conscientiousness actually live?"
+message: If you use this analysis, cite the SAPA data deposit and this repository.
+type: software
+authors:
+  - name: Independent research project
+license: MIT
+repository-code: https://github.com/JosephAsiwaju/inside-industriousness
+references:
+  - type: data
+    title: "Selected personality data from the SAPA-Project: 01Jan2020 to 31Dec2020"
+    authors:
+      - family-names: Condon
+        given-names: David
+    year: 2024
+    doi: 10.7910/DVN/YOEEDQ
+    publisher:
+      name: Harvard Dataverse
