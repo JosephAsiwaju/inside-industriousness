@@ -1,0 +1,7 @@
+construct_a,construct_b,htmt,threshold_085,threshold_090
+delay,industriousness,0.9195220956747865,False,False
+delay,order,0.5875969577927828,True,True
+delay,standards,0.3534462962174633,True,True
+industriousness,order,0.6753769502302502,True,True
+industriousness,standards,0.5329306773443736,True,True
+order,standards,0.8724001946073376,False,True
