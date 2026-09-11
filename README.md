@@ -12,6 +12,10 @@ Independent psychometric study. SAPA 2020. N = 200,149.
 
 Delay-worded conscientiousness items do **not** form a factor apart from industriousness.
 
+![HTMT .92 and out-of-sample 36% versus 12%](results/figures/fig_headline.svg)
+
+![HTMT pairs](results/figures/fig_htmt.svg)
+
 | Estimate | r | N |
 |---|---:|---:|
 | Delay items, mean inter-item r | .46 | pairwise 79k–117k |
@@ -19,7 +23,7 @@ Delay-worded conscientiousness items do **not** form a factor apart from industr
 | Delay composite vs industriousness only | **.57** | 96,175 |
 | Promax two-factor phi | -.39 | — |
 
-They load with “I work hard” and “I neglect my duties” under **varimax and promax**. They split from orderliness and from high standards. Age-band r stays between .37 and .43.
+They load with “I work hard” and “I neglect my duties” under **varimax and promax**. They split from orderliness and from high standards.
 
 Varimax forces uncorrelated factors, which makes separation easier. Finding no separation under that rotation is the conservative result.
 
@@ -53,7 +57,7 @@ Source: Condon (2024), Harvard Dataverse doi:10.7910/DVN/YOEEDQ.
 
 ## Limits
 
-Self-report volunteer sample. Three-item delay composite. No external outcome. No country field. Exploratory PCA, not confirmatory CFA. Duty is one item; HTMT is not reported for any pair that includes it.
+Self-report volunteer sample. Three-item composite. No external outcome. No country field. Exploratory PCA, not confirmatory CFA. Duty is one item; HTMT is not reported for any pair that includes it.
 
 ## Licence
 
