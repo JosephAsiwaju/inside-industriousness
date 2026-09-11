@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#FAFAF7"/>
+  <rect x="40" y="40" width="540" height="340" rx="12" fill="#1B2A4A"/>
+  <text x="310" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="96" fill="#FFFFFF" font-weight="700">.92</text>
+  <text x="310" y="250" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="22" fill="#E8E4DD">HTMT delay vs industriousness</text>
+  <text x="310" y="285" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="16" fill="#D4A843">fails .85 and .90</text>
+  <rect x="620" y="40" width="540" height="340" rx="12" fill="#0E7C86"/>
+  <text x="890" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#FFFFFF" font-weight="700">36% / 12%</text>
+  <text x="890" y="250" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="20" fill="#FFFFFF">OOS R² industriousness vs rest of C</text>
+  <text x="890" y="285" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="16" fill="#E8E4DD">adding the rest gains 1.4 points</text>
+</svg>

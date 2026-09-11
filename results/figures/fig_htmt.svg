@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="900" height="360" fill="#FAFAF7"/>
+  <text x="40" y="40" font-family="Calibri, Arial, sans-serif" font-size="18" fill="#0E7C86" font-weight="700">HTMT</text>
+  <text x="40" y="70" font-family="Georgia, serif" font-size="22" fill="#1B2A4A">Delay fails only against industriousness</text>
+  <g font-family="Calibri, Arial, sans-serif" font-size="18" fill="#2C2C2C">
+    <text x="40" y="130">Delay – industriousness</text><text x="820" y="130" text-anchor="end" font-weight="700">.92</text>
+    <rect x="40" y="140" width="780" height="10" fill="#E8E4DD"/><rect x="40" y="140" width="718" height="10" fill="#1B2A4A"/>
+    <text x="40" y="185">Order – standards</text><text x="820" y="185" text-anchor="end">.87</text>
+    <rect x="40" y="195" width="780" height="10" fill="#E8E4DD"/><rect x="40" y="195" width="679" height="10" fill="#6B7280"/>
+    <text x="40" y="240">Delay – order</text><text x="820" y="240" text-anchor="end">.59</text>
+    <rect x="40" y="250" width="780" height="10" fill="#E8E4DD"/><rect x="40" y="250" width="460" height="10" fill="#0E7C86"/>
+    <text x="40" y="295">Delay – standards</text><text x="820" y="295" text-anchor="end">.35</text>
+    <rect x="40" y="305" width="780" height="10" fill="#E8E4DD"/><rect x="40" y="305" width="273" height="10" fill="#0E7C86"/>
+  </g>
+  <text x="40" y="345" font-family="Calibri, Arial, sans-serif" font-size="13" fill="#6B7280">.85 conservative cut-off. Duty pairs omitted (single item).</text>
+</svg>
