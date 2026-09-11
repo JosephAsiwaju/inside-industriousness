@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="346" viewBox="0 0 900 346">
+<rect width="900" height="346" fill="#FAFAF7"/>
+<text x="40" y="32" font-family="Georgia,serif" font-size="20" fill="#1B2A4A">Delay vs remaining C, by age</text>
+<line x1="636.0" y1="50" x2="636.0" y2="306" stroke="#D4A843" stroke-width="2"/>
+<text x="38" y="62" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">18 and under</text>
+<line x1="553.2" y1="58" x2="592.3" y2="58" stroke="#1B2A4A" stroke-width="3"/>
+<circle cx="573.9" cy="58" r="5" fill="#0E7C86"/>
+<text x="830" y="62" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.39</text>
+<text x="38" y="94" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">19–24</text>
+<line x1="562.4" y1="90" x2="601.5" y2="90" stroke="#1B2A4A" stroke-width="3"/>
+<circle cx="580.8" cy="90" r="5" fill="#0E7C86"/>
+<text x="830" y="94" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.40</text>
+<text x="38" y="126" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">25–29</text>
+<line x1="516.4" y1="122" x2="580.8" y2="122" stroke="#1B2A4A" stroke-width="3"/>
+<circle cx="548.6" cy="122" r="5" fill="#0E7C86"/>
+<text x="830" y="126" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.38</text>
+<text x="38" y="158" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">30–34</text>
+<line x1="555.5" y1="154" x2="645.2" y2="154" stroke="#1B2A4A" stroke-width="3"/>
+<circle cx="599.2" cy="154" r="5" fill="#0E7C86"/>
+<text x="830" y="158" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.40</text>
+<text x="38" y="190" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">35–39</text>
+<line x1="537.1" y1="186" x2="647.5" y2="186" stroke="#1B2A4A" stroke-width="3"/>
+<circle cx="592.3" cy="186" r="5" fill="#0E7C86"/>
+<text x="830" y="190" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.40</text>
+<text x="38" y="222" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">40–49</text>
+<line x1="550.9" y1="218" x2="654.4" y2="218" stroke="#1B2A4A" stroke-width="3"/>
+<circle cx="603.8" cy="218" r="5" fill="#0E7C86"/>
+<text x="830" y="222" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.41</text>
+<text x="38" y="254" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">50–59</text>
+<line x1="573.9" y1="250" x2="728.0" y2="250" stroke="#1B2A4A" stroke-width="3"/>
+<circle cx="652.1" cy="250" r="5" fill="#0E7C86"/>
+<text x="830" y="254" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.43</text>
+<text x="38" y="286" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">60 and over</text>
+<line x1="403.7" y1="282" x2="633.7" y2="282" stroke="#1B2A4A" stroke-width="3"/>
+<circle cx="521.0" cy="282" r="5" fill="#0E7C86"/>
+<text x="830" y="286" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.37</text>
+<text x="40" y="332" font-family="Calibri,Arial,sans-serif" font-size="12" fill="#6B7280">Gold line = overall .42. Interval is Fisher-z 95% CI.</text>
+</svg>

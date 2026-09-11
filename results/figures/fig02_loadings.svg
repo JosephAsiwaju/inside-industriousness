@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="416" viewBox="0 0 900 416">
+<rect width="900" height="416" fill="#FAFAF7"/>
+<text x="40" y="32" font-family="Georgia,serif" font-size="20" fill="#1B2A4A">Varimax |F1| — delay sits with industriousness</text>
+<text x="38" y="72" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Start tasks right away</text>
+<rect x="320" y="60" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="60" width="321" height="16" fill="#1B2A4A"/>
+<text x="810" y="73" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.67</text>
+<text x="38" y="100" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Difficult to get down to work</text>
+<rect x="320" y="88" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="88" width="388" height="16" fill="#1B2A4A"/>
+<text x="810" y="101" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.81</text>
+<text x="38" y="128" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Need a push to get started</text>
+<rect x="320" y="116" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="116" width="355" height="16" fill="#1B2A4A"/>
+<text x="810" y="129" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.74</text>
+<text x="38" y="156" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Neglect my duties</text>
+<rect x="320" y="144" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="144" width="360" height="16" fill="#0E7C86"/>
+<text x="810" y="157" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.75</text>
+<text x="38" y="184" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Work hard</text>
+<rect x="320" y="172" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="172" width="302" height="16" fill="#0E7C86"/>
+<text x="810" y="185" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.63</text>
+<text x="38" y="212" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Forget to put things back</text>
+<rect x="320" y="200" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="200" width="244" height="16" fill="#6B7280"/>
+<text x="810" y="213" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.51</text>
+<text x="38" y="240" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Follow the rules</text>
+<rect x="320" y="228" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="228" width="115" height="16" fill="#6B7280"/>
+<text x="810" y="241" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.24</text>
+<text x="38" y="268" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Not bothered by disorder</text>
+<rect x="320" y="256" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="256" width="72" height="16" fill="#6B7280"/>
+<text x="810" y="269" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.15</text>
+<text x="38" y="296" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Set high standards</text>
+<rect x="320" y="284" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="284" width="67" height="16" fill="#D4A843"/>
+<text x="810" y="297" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.14</text>
+<text x="38" y="324" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Continue until perfect</text>
+<rect x="320" y="312" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="312" width="81" height="16" fill="#D4A843"/>
+<text x="810" y="325" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.17</text>
+<text x="38" y="352" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Every detail taken care of</text>
+<rect x="320" y="340" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="340" width="28" height="16" fill="#D4A843"/>
+<text x="810" y="353" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.06</text>
+<text x="38" y="380" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">Dislike imperfect work</text>
+<rect x="320" y="368" width="480" height="16" fill="#E8E4DD"/>
+<rect x="320" y="368" width="9" height="16" fill="#D4A843"/>
+<text x="810" y="381" font-family="Calibri,Arial,sans-serif" font-size="13" fill="#2C2C2C">0.02</text>
+<text x="40" y="402" font-family="Calibri,Arial,sans-serif" font-size="12" fill="#6B7280">Absolute loading on first varimax factor. Navy = delay; teal = industriousness; gold = standards.</text>
+</svg>
